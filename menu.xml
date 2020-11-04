@@ -1,0 +1,11 @@
+<menu>
+    <menuitem label='Home'>
+        <icon>fa:home fa-fw</icon>
+        <action>Home</action>
+    </menuitem>
+    
+    <menuitem label='Eventos'>
+        <icon>fa:calendar-week</icon>
+        <action>EventosForm</action>
+    </menuitem>
+</menu>

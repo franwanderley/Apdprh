@@ -1,0 +1,42 @@
+<menu>
+    <menuitem label='Home'>
+        <icon>fa:home fa-fw</icon>
+        <action>Home</action>
+    </menuitem>
+    
+    <menuitem label='Eventos'>
+        <icon>fa:calendar-week</icon>
+        <action>EventosForm</action>
+    </menuitem>
+    <menuitem label='Config'>
+        <icon>fa:cog</icon>
+        <menu>
+            <menuitem label='Listar Cursos'>
+                <icon>fa:chalkboard</icon>
+                <action>Cursos_adm</action>
+            </menuitem>
+             <menuitem label='Novo Curso'>
+                <icon>fa:chalkboard</icon>
+                <action>CursoEditar</action>
+            </menuitem>
+
+            <menuitem label='Listar Eventos'>
+                <icon>fa:calendar-week</icon>
+                <action>Eventos_Admin</action>
+            </menuitem>
+            <menuitem label='Novo Evento'>
+                <icon>fa:calendar-plus</icon>
+                <action>EventoEditar</action>
+            </menuitem>
+            
+             <menuitem label='Listar Usuarios'>
+                <icon>fa:users</icon>
+                <action>ListarAluno</action>
+            </menuitem>
+             <menuitem label='Novo Usuario'>
+                <icon>fa:user-plus</icon>
+                <action>NovoAdmin</action>
+            </menuitem>
+        </menu>
+    </menuitem>
+</menu>
