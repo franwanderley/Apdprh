@@ -1,5 +1,5 @@
 <h1>APDPRH - Certificado</h1>
-<img src="" alt="resultado da criação"/>
+<img src="https://github.com/franwanderley/apdprh/blob/main/app/images/resultado.jpg" alt="resultado do site"/>
 <h2>Tecnologias Usadas</h2>
 <ul>
   <li> PHP </li>
